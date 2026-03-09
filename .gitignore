@@ -47,6 +47,9 @@ dependency-reduced-pom.xml
 # Visual Studio Code
 .vscode
 
+# Local sandbox folder
+sandbox/
+
 # Local History for Visual Studio Code
 .history/
 
